@@ -1,0 +1,25 @@
+body{
+    width: 100%;
+    height: 100vh;
+    background: #18191A;
+}
+.list-group li{
+    color: #0f5132;
+    background-color: #d1e7dd;
+    position: relative;
+    padding: 0.5rem 1rem;
+    margin-bottom: 0.8rem;
+    border: 1px solid #badbcc;
+    border-radius: 0.25rem;
+}
+.card{
+    background: #242526;
+    border-color: #393A3B !important;
+    color: #fff !important;
+}
+input{
+    cursor: pointer;
+}
+label{
+    cursor: pointer;
+}
